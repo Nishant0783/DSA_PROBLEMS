@@ -1,15 +1,7 @@
 -----------------------18 March 2024--------------------------
 Geeks for geeks:-  Searching in an array where adjacent differ by at most k
-Solution:- https://www.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+https://www.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 
 Leetcode:- K-diff Pairs in an Array
-Solution:- https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
+https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
 
-
-
------------------------18 March 2024--------------------------
-Geeks for geeks:-  Searching in an array where adjacent differ by at most k
-Solution:- https://www.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
-
-Leetcode:- K-diff Pairs in an Array
-Solution:- https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
