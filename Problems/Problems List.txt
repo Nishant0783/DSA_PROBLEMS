@@ -1,7 +1,12 @@
 -----------------------18 March 2024--------------------------
-Geeks for geeks:-  Searching in an array where adjacent differ by at most k
+Geeks for geeks:-  Searching in an array where adjacent differ by at most k   (EASY)
 https://www.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 
-Leetcode:- K-diff Pairs in an Array
+Leetcode:- K-diff Pairs in an Array   (MEDIUM)
 https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
+
+
+-----------------------20 March 2024--------------------------
+Geeks for geeks:- Common elements   (EASY)
+https://www.geeksforgeeks.org/problems/common-elements1132/1itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 
