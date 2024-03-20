@@ -13,3 +13,8 @@ https://www.geeksforgeeks.org/problems/common-elements1132/1itm_source=geeksforg
 
 Leetcode:- Relative sort array  (EASY)
 https://leetcode.com/problems/relative-sort-array/
+
+
+-----------------------21 March 2024--------------------------
+Leetcode:- Sort an array  (MEDIUM)
+https://leetcode.com/problems/sort-an-array/description/
