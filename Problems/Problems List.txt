@@ -18,3 +18,24 @@ https://leetcode.com/problems/relative-sort-array/
 -----------------------21 March 2024--------------------------
 Leetcode:- Sort an array  (MEDIUM)
 https://leetcode.com/problems/sort-an-array/description/
+
+
+-----------------------26 March 2024--------------------------
+***All questions are based on "CYCLE SORT"
+
+Leetcode:- Find All Numbers Disappeared in an Array  (EASY)
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+
+Leetcode:- Find the Duplicate Number (MEDIUM)  => Earlier I used 'tortoise and hale algorithm' but we can solve it using 'cycle sort' also.
+https://leetcode.com/problems/find-the-duplicate-number/description/
+
+Leetcode:- Find All Duplicates in an Array (MEDIUM)
+https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+
+Leetcode:- Set Mismatch  (EASY)
+https://leetcode.com/problems/set-mismatch/description/
+
+Leetcode:- First Missing Positive  (HARD) (POTD)
+https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26
+
+
